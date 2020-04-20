@@ -6,4 +6,6 @@
 
 下班后修改了一下。
 
-使用SourceTree推送的测试文件
+使用SourceTree推送的测试文件。
+
+使用SourceTree拉取的测试文件。
